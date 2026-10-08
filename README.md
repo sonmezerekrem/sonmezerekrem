@@ -13,4 +13,8 @@ Feel free to reach out to me through any of the following channels:
 
 ---
 
+## Some of My Projects
+- [LuFeed](https://lufeed.com)
+- [Read and Echo](https://readandecho.com)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonmezerekrem&show_icons=true&theme=default)
